@@ -22,3 +22,4 @@ after_success:
 - docker push appelsappel/multi-nginx
 - docker push appelsappel/multi-api
 - docker push appelsappel/multi-worker
+
